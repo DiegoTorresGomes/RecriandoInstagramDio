@@ -9,10 +9,10 @@
 
 body {
     width: 100%;
-    min-height: 150vh;
+    height: 150vh;
     background-color: rgb(243,243, 243);
-    margin: 50px;
-    padding: 100px;;
+    margin: 100px;
+    padding: 80px;
     display: flex;
     justify-content: center;
 }
@@ -22,8 +22,8 @@ body {
     align-items: center;
     justify-content: start;
     width: 60%;
-    height: 150vh;
-    padding: 180px;
+    height: 200vh;
+    padding: 70px;
 }
 
 .instagram-phone {
